@@ -1,5 +1,8 @@
 # Malady-Prognosis-DNN
-A Deep Neural Network (DNN) model that predicts the ailment of the patient
+
+* This uses a very simple dataset generated for example purposes
+* code for the [model](https://github.com/keshav-b/Malady-Prognosis-DNN/blob/master/code/working.py)
+* code for [exporting](https://github.com/keshav-b/Malady-Prognosis-DNN/blob/master/code/export.py) as a frozen graph
 
 
-[working code](https://github.com/keshav-b/Malady-Prognosis-DNN/tree/master/code)
+
